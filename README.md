@@ -1,2 +1,2 @@
 # nlp_learning_notebook
-For learning NLP related theories and practices
+This is a notebook repo for all necessary learning related to natural lanaguge processing (NLP) theories and practices for individual usage
